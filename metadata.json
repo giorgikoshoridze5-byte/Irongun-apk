@@ -1,0 +1,6 @@
+{
+  "name": "Ironfront",
+  "description": "Competitive 3D tactical multiplayer war shooter with OpenGL ES 3.0 combat, cloud matchmaking, real-time matches, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

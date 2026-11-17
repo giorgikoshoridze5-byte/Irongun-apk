@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ironfront</string>
+    <string name="nav_command">Command</string>
+    <string name="nav_armory">Armory</string>
+    <string name="nav_ranks">Ranks</string>
+    <string name="nav_multiplayer">LAN PvP</string>
+    <string name="deploy_now">DEPLOY TO WARZONE</string>
+    <string name="cloud_offline_title">Cloud Backend Offline</string>
+    <string name="cloud_offline_desc">Firebase cloud matchmaking and global leaderboard sync are offline because Firebase setup was declined. Local Competitive Career, AI Skirmish, and Wi-Fi LAN PvP are active.</string>
+    <string name="cd_hero_banner">Ironfront tactical warzone battlefield artwork</string>
+    <string name="cd_operator_avatar">Operator tactical helmet avatar</string>
+    <string name="cd_settings">Open tactical settings</string>
+    <string name="cd_pause">Pause match</string>
+    <string name="cd_fire">Fire weapon</string>
+    <string name="cd_ads">Aim down sights</string>
+    <string name="cd_reload">Reload weapon</string>
+    <string name="cd_crouch">Toggle crouch</string>
+    <string name="cd_jump">Jump</string>
+</resources>
